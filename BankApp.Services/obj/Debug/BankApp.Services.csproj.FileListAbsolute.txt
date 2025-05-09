@@ -1,0 +1,14 @@
+C:\Users\chell\source\repos\BankApp.Services\bin\Debug\BankApp.Services.dll
+C:\Users\chell\source\repos\BankApp.Services\bin\Debug\BankApp.Services.pdb
+C:\Users\chell\source\repos\BankApp.Services\bin\Debug\BankApp.Models.dll
+C:\Users\chell\source\repos\BankApp.Services\bin\Debug\EntityFramework.dll
+C:\Users\chell\source\repos\BankApp.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\chell\source\repos\BankApp.Services\bin\Debug\BankApp.Models.pdb
+C:\Users\chell\source\repos\BankApp.Services\bin\Debug\BankApp.Models.dll.config
+C:\Users\chell\source\repos\BankApp.Services\bin\Debug\EntityFramework.xml
+C:\Users\chell\source\repos\BankApp.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\chell\source\repos\BankApp.Services\obj\Debug\BankApp.Services.csproj.AssemblyReference.cache
+C:\Users\chell\source\repos\BankApp.Services\obj\Debug\BankApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\chell\source\repos\BankApp.Services\obj\Debug\BankApp..C50CC7FF.Up2Date
+C:\Users\chell\source\repos\BankApp.Services\obj\Debug\BankApp.Services.dll
+C:\Users\chell\source\repos\BankApp.Services\obj\Debug\BankApp.Services.pdb
